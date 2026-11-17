@@ -1,0 +1,16 @@
+{
+  "name": "duck-wars-v88-payments-api",
+  "version": "88.1.0",
+  "private": true,
+  "description": "Duck Wars V88 secure web payments backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "stripe": "^18.5.0"
+  }
+}
